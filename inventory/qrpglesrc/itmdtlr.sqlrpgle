@@ -1,6 +1,6 @@
 **free
 // -------------------------------------------------------------------------------------------------
-// Program Name : ITMDTLR
+// Program Name : ITMDTLR  (edited)
 // Description  : Program to Add/Delete/Update/Display the Item Master file records.
 // Parameters   : S2_Mode            Input    Mandatory. Determines if the mode is Add/Delete/Update
 //                S2_ItNum           Input    Mandatory. Blanks for Add operation.
