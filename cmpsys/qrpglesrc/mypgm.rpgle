@@ -13,6 +13,7 @@ End-PR;
 mytext = 'Hello to all you people';
 printf(mytext);
 
+// comment
 dsply mytext;
 
 return;
